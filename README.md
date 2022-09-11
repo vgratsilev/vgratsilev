@@ -51,6 +51,8 @@
     <td>
       <img height="195px" src="https://github-readme-stats.vercel.app/api?username=vgratsilev&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" alt="vgratsilev's Github stats" />
     </td>
+  </tr>
+  </tr>
     <td>
       <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vgratsilev&theme=algolia&layout=compact" alt="vgratsilev's Github top languages" />
     </td>

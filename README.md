@@ -49,7 +49,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vgratsilev&theme=algolia" alt="vgratsilev's Github stats" />
     </td>
     <td>
-      <img height="195px" src="https://github-readme-stats.vercel.app/api?username=vgratsilev&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" alt="vgratsilev's Github stats" />
+      <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vgratsilev&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" alt="vgratsilev's Github stats" />
     </td>
   </tr>
   </tr>
